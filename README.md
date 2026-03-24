@@ -1,39 +1,117 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Prince Kumar
-=====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Prince Kumar</h1>
+<h3 align="center">🚀 Full Stack Developer | Backend-Focused | MERN Stack</h3>
 
-Full Stack Web Developer
-------------------------
-
-I am a passionate full-stack web developer and Computer Science student with a strong interest in building scalable, efficient, and user-focused web applications. I enjoy transforming ideas into practical digital solutions by combining modern development technologies with strong problem-solving skills.
-
-My primary focus is on full-stack web development using the MERN stack (MongoDB, Express.js, React.js, and Node.js). I have experience designing and developing responsive web applications, implementing secure authentication systems using JWT and bcrypt, and building RESTful APIs that support scalable backend services. I also develop responsive and user-friendly interfaces using HTML, CSS, JavaScript, and Tailwind CSS.
-
-Through my academic studies, I have developed a strong foundation in core computer science subjects such as Data Structures and Algorithms (DSA), Object-Oriented Programming, Database Management Systems (DBMS), and Computer Networks. Practicing DSA regularly helps me strengthen my analytical thinking and improve the efficiency and performance of the systems I build.
-
-My programming experience includes languages such as Java, JavaScript, and SQL, and I enjoy writing clean, maintainable, and efficient code following good software development practices. I also work with development tools like Git, GitHub, Postman, and VS Code to manage version control, test APIs, and maintain organized project workflows.
-
-I have worked on several academic and personal projects involving full-stack platforms, backend services, and data-driven dashboards. These projects have helped me gain hands-on experience in API design, database schema development, application security, and performance optimization.
-
-I am particularly interested in backend development, scalable system architecture, and performance-driven application design. I continuously explore new technologies, improve my development skills, and work on projects that demonstrate practical problem solving and engineering principles.
-
-I am always eager to learn, collaborate with other developers, and contribute to meaningful projects that create real-world impact.
-
-* ✉️  You can contact me at [princekumar09372@gmail.com](mailto:princekumar09372@gmail.com)
-* 🧠  I'm currently learning Laravel Framework, Docker and CI/CD pipelines.
-* 👥  I'm looking to collaborate on Open-source web development projects • MERN stack and REST API based applications • Scalable backend systems and developer tools
-
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" title="PHP" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" title="TailwindCSS" width="36" height="36" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" title="Bootstrap" width="36" height="36" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" title="Vite" width="36" height="36" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" alt="Redux" title="Redux" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" title="Express" width="36" height="36" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" title="MongoDB" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" title="PostgreSQL" width="36" height="36" /></a><a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="Wordpress" title="Wordpress" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ubuntu-colored.svg" alt="Ubuntu" title="Ubuntu" width="36" height="36" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" title="Laravel" width="36" height="36" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg" alt="Amazon Web Services" title="Amazon Web Services" width="36" height="36" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" title="Docker" width="36" height="36" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0891b2&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Backend+%7C+APIs+%7C+System+Design;MERN+Stack+Engineer;Always+Learning+New+Technologies" />
 </p>
 
-### Socials
+<hr/>
 
-<p align="left"> <a href="https://www.github.com/prince093kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/prince093kumar" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
-### Badges
+<h2>💡 About Me</h2>
+<p>
+I am a passionate Full Stack Developer and Computer Science student focused on building 
+<b>scalable, secure, and efficient web applications</b>.
+</p>
 
-<b>My GitHub Stats</b>
+<ul>
+  <li>💻 Specialized in <b>MERN Stack (MongoDB, Express, React, Node.js)</b></li>
+  <li>🔐 Experience with <b>JWT authentication & secure backend systems</b></li>
+  <li>⚙️ Strong in <b>REST API development & database design</b></li>
+  <li>📊 Strong foundation in <b>DSA, DBMS, OOP & Computer Networks</b></li>
+  <li>🚀 Focused on <b>backend engineering & system scalability</b></li>
+</ul>
 
-<a href="http://www.github.com/prince093kumar"><img src="https://github-readme-stats.vercel.app/api?username=prince093kumar&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="prince093kumar's GitHub stats" /></a>
+<hr/>
 
-<a href="http://www.github.com/prince093kumar"><img src="https://github-readme-streak-stats.herokuapp.com/?user=prince093kumar&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<h2>🛠️ Tech Stack</h2>
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,mysql,postgres,php,laravel,docker,aws,git,linux,tailwind,bootstrap" />
+</p>
+
+<hr/>
+
+<h2>🚀 Projects</h2>
+
+<h3>🍳 Recipe Generator Web App</h3>
+<ul>
+  <li>Built using MERN stack</li>
+  <li>Dynamic API-based recipe fetching</li>
+  <li>Responsive and optimized UI</li>
+</ul>
+
+<h3>🌱 Farmers’ Disease Diagnostic Portal</h3>
+<ul>
+  <li>Farmer & Expert dashboards</li>
+  <li>Disease reporting and expert solution system</li>
+  <li>Tech: HTML, Tailwind CSS, JavaScript, PHP, MySQL</li>
+</ul>
+
+<h3>💰 Expense Report Generator</h3>
+<ul>
+  <li>PDF report generation with analytics</li>
+  <li>Integrated Chart.js and jsPDF</li>
+</ul>
+
+<h3>🎯 EventOrbit Platform</h3>
+<ul>
+  <li>Scalable event management system</li>
+  <li>Backend-focused architecture</li>
+</ul>
+
+<hr/>
+
+<h2>📈 Currently Learning</h2>
+<ul>
+  <li>Laravel Framework</li>
+  <li>Docker & DevOps</li>
+  <li>CI/CD Pipelines</li>
+</ul>
+
+<hr/>
+
+<h2>🤝 Open to Collaborate</h2>
+<ul>
+  <li>MERN Stack projects</li>
+  <li>REST API development</li>
+  <li>Backend systems</li>
+</ul>
+
+<hr/>
+
+<h2>📫 Connect With Me</h2>
+
+<p align="center">
+  <a href="mailto:princekumar09372@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://github.com/prince093kumar">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="https://www.linkedin.com/in/prince093kumar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  </a>
+</p>
+
+<hr/>
+
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prince093kumar&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prince093kumar&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prince093kumar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr/>
+
+<h2>⚡ Developer Mindset</h2>
+
+<p align="center">
+  <i>"I build systems that are scalable, secure, and performance-driven — not just applications."</i>
+</p>
+
+<p align="center">⭐ Star your favorite repositories if you like my work!</p>
